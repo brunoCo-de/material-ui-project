@@ -1,4 +1,4 @@
-# material-ui-project
+# MATERIAL UI (MUI) PROJET
 
 # Mon App Album Photo Front-End - Template
 
