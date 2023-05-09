@@ -2,7 +2,7 @@
 
 # Mon App Album Photo Front-End - Template
 
-Le modèle de template d'album photo créé avec React et MUI est une conception d'interface utilisateur visuellement attrayante et conviviale qui permet aux utilisateurs d'afficher leurs photos de manière belle et organisée. Le modèle comprend une disposition en grille qui peut être personnalisée pour afficher des photos de tailles et de ratios d'aspect différents. Il comprend également des contrôles de navigation intuitifs, tels que des boutons de flèche et des miniatures cliquables, qui permettent aux utilisateurs de naviguer facilement à travers leurs photos.
+Le modèle de template d'album photo créé avec React et MUI est une conception d'interface utilisateur visuellement attrayante et conviviale qui permet aux utilisateurs d'afficher leurs photos de manière belle et organisée. Le modèle comprend une disposition en grille qui peut être personnalisée pour afficher des photos de tailles et de ratios d'aspect différents.
 
 # Libraries utilisées
 
