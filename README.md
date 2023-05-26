@@ -1,4 +1,4 @@
-# 🤳 Photo Album App template
+# 🤳 Photo Album Template 
 
 ## ⚽ Description
 
